@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Micheal Oher</title>
+    </head>
+    <body>
+        <h1>Michael Oher</h1>
+        <img src="https://www.fosterclub.com/sites/default/files/styles/bootstrap3_col12/public/blog-images/Michael.jpeg?itok=0hDegtEO>
+        <p>
+            What makes him a hero? Michael inspired many many with his story coming up to the NFL. Coming up from the worse conditions, in the hood, people dying everyday, etc. Many upcoming athetles looked at him an an inspiration.
+        </p>
+        <p>
+            The heroes that I most admire have the following characteristics.
+        </p>
+        <ul>
+            <li>Outrageously courageous - they disturb the status quo and define a new normal</li>
+            <li>Motivate others - people follow a great leader</li>
+            <li>Big footprint - impact on millions and change the world</li>
+            <li>Sacrifice & commitment - their impact usually costs them everything</li>
+            <li>Integrity - they live true to their calling</li>
+        </ul>
+        <p>
+            Over the last 100 years no man exemplifies these values for me more than
+            Martin Luther King.  He called people to be accountable for the racial
+            prejudices that we all carry.   He demonstrated that violence is not the
+            best way to create lasting change. And throughout his life he sacrificed
+            everything to make the world better.
+        </p>
+        <p><a href="https://www.biography.com/activist/martin-luther-king-jr">Learn More ...</a></p>
+    </body>
+</html>

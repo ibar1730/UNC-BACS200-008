@@ -1,0 +1,14 @@
+
+body {
+    background-color: darkgrey;
+}
+
+h1 {
+    color: black;
+    border: 5px solid red;
+    background-color: white;
+}
+
+a {
+    color: red;
+}
